@@ -1,7 +1,7 @@
 pipeline {
   environment {
     registry = "elaamiri/tp4devops"
-    registryCredential = '<dockerhub_credential_ID>'
+    registryCredential = 'd4d2ee4c-72be-468e-b340-77713d042ce8'
     dockerImage = ''
   }
   agent any
